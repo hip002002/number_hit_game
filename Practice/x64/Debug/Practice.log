@@ -1,0 +1,10 @@
+﻿  Practice.cpp
+Z:\研修\C\Practice\Practice\Practice.cpp(30,58): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+      Z:\研修\C\Practice\Practice\Practice.cpp(30,58):
+      プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  
+Z:\研修\C\Practice\Practice\Practice.cpp(45,58): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+      Z:\研修\C\Practice\Practice\Practice.cpp(45,58):
+      プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  
+  Practice.vcxproj -> Z:\研修\C\Practice\x64\Debug\Practice.exe
